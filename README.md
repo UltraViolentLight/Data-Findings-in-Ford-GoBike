@@ -35,7 +35,7 @@ The dataset to be analyzed it Bay Wheels's trip data for public use.  This data 
 - User Type (Subscriber or Customer – “Subscriber” = Member or “Customer” = Casual)
 ---
 
-## Sumary
+## Summary
 
 ---
 
@@ -45,7 +45,8 @@ The dataset to be analyzed it Bay Wheels's trip data for public use.  This data 
 $ jupyter notebook
 ```
 
-> open `exploration_template.ipynb` in browser
+> open `exploration.ipynb` in browser
+> open `slide_deck.ipynb` in browser
 
 ---
 
